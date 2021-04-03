@@ -33,13 +33,13 @@ public class Task1_3 {
 
         // ⑥ ⑤で作成した変数を連結させた値を代入する変数 train を作成しなさい。
         String train = "有楽町";
-        String a = train + "線";
+        String a = train + line;
         // ⑦ 変数plus, minus, multiply, remi, train をそれぞれ出力しなさい。
          System.out.println(plus);
          System.out.println(minus);
          System.out.println(multiply);
          System.out.println(remi);
-         System.out.println(train);
+         System.out.println(a);
 
 
     }
