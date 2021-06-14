@@ -23,7 +23,7 @@ public class Main {
 
         // ② ①のインスタンス変数より、アカウント情報をコンソール出力するメソッドを呼び出しなさい。
   
-        Main.printAccountInfo("hoge" , 123 , "abc123");
+        Main.printAccountInfo();
     
         
     }
